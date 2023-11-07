@@ -1,0 +1,12 @@
+.section-4 .box-img .prosale{
+    top: 5px;
+    left: 5px;
+    background: red;
+    color: #fff;
+    letter-spacing: 0.5px;
+    z-index: 3;
+    position: absolute;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 2px 5px;
+}
